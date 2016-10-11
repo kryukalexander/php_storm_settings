@@ -23,9 +23,6 @@
     <library name="jquery-2.2.4" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.4.js" />
@@ -39,9 +36,6 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <option name="frameworkVersion" value="1.0." />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.0.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.0.js" />
@@ -54,9 +48,6 @@
     <library name="jquery-ui" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.0_jquery-ui.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_ui_1.12.0_jquery-ui.js" />
