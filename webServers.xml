@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f493aaaf-599e-4b09-9252-00b347be92ec" name="Ubuntu" url="http://192.168.10.5">
-        <fileTransfer host="192.168.10.5" port="21">
+      <webServer id="f493aaaf-599e-4b09-9252-00b347be92ec" name="Ubuntu" url="http://192.168.0.108">
+        <fileTransfer host="192.168.0.108" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
