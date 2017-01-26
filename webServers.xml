@@ -9,6 +9,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8ccdb9be-1c7b-4038-94d0-94b75e509b91" name="property_report_remote" url="http://67.225.136.219">
+        <fileTransfer host="67.225.136.219" port="21" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
