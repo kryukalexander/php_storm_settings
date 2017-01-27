@@ -10,11 +10,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="8ccdb9be-1c7b-4038-94d0-94b75e509b91" name="property_report_remote" url="http://67.225.136.219">
-        <fileTransfer host="67.225.136.219" port="21" accessType="FTPS">
+        <fileTransfer host="67.225.136.219" port="22" privateKey="C:\_work\keys\id_rsa" rootFolder="/home/tprprorep/dev2.thepropertyreport.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="20000" maxConnections="1" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
