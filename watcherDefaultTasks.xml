@@ -20,7 +20,7 @@
       </option>
       <option name="outputFromStdout" value="true" />
       <option name="program" value="/usr/bin/lessc" />
-      <option name="scopeName" value="Open Files" />
+      <option name="scopeName" value="main" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
