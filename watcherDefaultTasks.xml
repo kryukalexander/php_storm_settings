@@ -47,7 +47,7 @@
     <TaskOptions isEnabled="true">
       <option name="arguments" value="$FileName$" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compiles .pug and .jade files into .html files" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="jade" />
       <option name="immediateSync" value="true" />
@@ -57,8 +57,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$ExecutableByFileExt$" />
-      <option name="scopeName" value="Unnamed" />
+      <option name="program" value="$USER_HOME$/AppData/Roaming/npm/pug.cmd" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
