@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="2017-01-allison-holdings" type="HTML" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="npm_exec" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
