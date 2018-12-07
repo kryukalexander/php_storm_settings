@@ -9,8 +9,10 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonar.kreios.lu" />
-          <token>df9edf9edf93df99dfc8dfcfdf9bdfc8df9bdf9bdfc8df9adf99df9bdfcfdf92dfcedfccdfcedfcbdf98df9cdfcfdfcfdfcfdf9edfcfdfccdfccdf9bdf9cdf9ddfcedfccdfc9dfcedf9adf93dfcfdfc9</token>
           <option name="name" value="KreiosSonar" />
+          <option name="login" value="akuzmenko" />
+          <password>dfc4df92dff8dfe6dfd9dfd8dfe3dffadfc0dfc4dfe3dff3</password>
+          <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
