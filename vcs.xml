@@ -42,9 +42,17 @@
           <option name="url" value="https://gitlab.kreios.lu/s4m/mediaportal.queryparser.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://arvato-systems-dmm@dev.azure.com/arvato-systems-dmm/MediaPortal/_git/MediaPortal" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="arvato-systems-dmm" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\_work" />
+    <option name="cloneParentDir" value="D:\_work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
