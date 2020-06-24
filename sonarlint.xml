@@ -1,12 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="javascript:S3317" />
-        <option value="typescript:S1128" />
-        <option value="typescript:S905" />
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -18,5 +11,10 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="typescript:S1128" />
+      <Rule active="false" key="typescript:S905" />
+      <Rule active="false" key="javascript:S3317" />
+    </rules>
   </component>
 </application>
