@@ -16,7 +16,7 @@
     <mask>*.svg</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*.less</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
